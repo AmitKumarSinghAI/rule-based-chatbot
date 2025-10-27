@@ -27,6 +27,7 @@ This task is part of a **Python Developer Internship Assignment (Task 8)**.
 
 ---
 
+
 ## 📂 File Structure
 rule-based-chatbot/
 │-- chatbot.py # Main chatbot script
@@ -65,5 +66,6 @@ You: exit
 . Basics of NLP preprocessing (lowercasing, keyword matching)
 
 . Handling loops and exit conditions
+
 
 . Creating a rule-based conversational bot
